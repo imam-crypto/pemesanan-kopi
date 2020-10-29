@@ -1,0 +1,25 @@
+#app {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.card-product {
+    border-radius: 10px;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.breadcrumb {
+    background: transparent;
+    padding: 1px;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+}
